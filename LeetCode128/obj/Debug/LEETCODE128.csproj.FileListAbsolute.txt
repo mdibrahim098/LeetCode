@@ -1,0 +1,10 @@
+E:\Desktop\C#\LEETCODE128\obj\Debug\LEETCODE128.csproj.AssemblyReference.cache
+E:\Desktop\C#\LEETCODE128\obj\Debug\LEETCODE128.csproj.CoreCompileInputs.cache
+E:\Desktop\C#\LEETCODE128\bin\Debug\LEETCODE128.exe.config
+E:\Desktop\C#\LEETCODE128\bin\Debug\LEETCODE128.exe
+E:\Desktop\C#\LEETCODE128\bin\Debug\LEETCODE128.pdb
+E:\Desktop\C#\LEETCODE128\obj\Debug\LEETCODE128.exe
+E:\Desktop\C#\LEETCODE128\obj\Debug\LEETCODE128.pdb
+D:\My Folder\LeetCode128\bin\Debug\LEETCODE128.exe.config
+D:\My Folder\LeetCode128\obj\Debug\LEETCODE128.exe
+D:\My Folder\LeetCode128\obj\Debug\LEETCODE128.pdb

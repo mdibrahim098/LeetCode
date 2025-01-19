@@ -1,0 +1,6 @@
+D:\C#\LeetCode128\LeetCode128\bin\Debug\LeetCode128.exe.config
+D:\C#\LeetCode128\LeetCode128\bin\Debug\LeetCode128.exe
+D:\C#\LeetCode128\LeetCode128\bin\Debug\LeetCode128.pdb
+D:\C#\LeetCode128\LeetCode128\obj\Debug\LeetCode128.exe
+D:\C#\LeetCode128\LeetCode128\obj\Debug\LeetCode128.pdb
+D:\C#\LeetCode128\LeetCode128\obj\Debug\LeetCode128.csprojResolveAssemblyReference.cache
