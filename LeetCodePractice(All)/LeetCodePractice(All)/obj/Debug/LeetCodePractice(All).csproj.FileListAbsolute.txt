@@ -1,0 +1,13 @@
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\bin\Debug\LeetCodePractice(All).exe.config
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\bin\Debug\LeetCodePractice(All).exe
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\bin\Debug\LeetCodePractice(All).pdb
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).csproj.AssemblyReference.cache
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).csproj.CoreCompileInputs.cache
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).exe
+E:\Desktop\C#\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).pdb
+D:\My Folder\LeetCodePractice(All)\LeetCodePractice(All)\bin\Debug\LeetCodePractice(All).exe.config
+D:\My Folder\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).exe
+D:\My Folder\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).pdb
+D:\My Folder\LeetCodePractice(All)\LeetCodePractice(All)\bin\Debug\LeetCodePractice(All).exe
+D:\My Folder\LeetCodePractice(All)\LeetCodePractice(All)\bin\Debug\LeetCodePractice(All).pdb
+D:\My Folder\LeetCodePractice(All)\LeetCodePractice(All)\obj\Debug\LeetCodePractice(All).csprojResolveAssemblyReference.cache
